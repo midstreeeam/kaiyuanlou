@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "95573c14936213f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ade11cdd589e3737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1255ced1b44261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca943f33544e29d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3849d2e96efb8ae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b357b84f0a664fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d35d7e89420b1070",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecbca1083d89889c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88b52717ffa400e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee047b052220123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7ae1e9a83d6d5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f53ca2d5757fc9be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b75f9e44bfad20db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73eeaf9303946695",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "ab1255ced1b44261",
+  "lastOpenFiles": [
+    "README.md",
+    "README.html",
+    "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
+    "index.html",
+    "midstream.cn.md",
+    "Untitled"
+  ]
+}
