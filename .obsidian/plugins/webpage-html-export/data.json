@@ -6,14 +6,16 @@
   "includeSvelteCSS": true,
   "makeNamesWebStyle": false,
   "allowFoldingHeadings": true,
+  "sidebarsAlwaysCollapsible": false,
   "addFilenameTitle": false,
-  "beautifyHTML": true,
+  "minifyHTML": true,
   "customLineWidth": "",
   "contentWidth": "",
   "sidebarWidth": "",
   "startOutlineCollapsed": false,
-  "dataviewBlockWaitTime": 700,
-  "showWarningsInExportLog": true,
+  "logLevel": "warning",
+  "incrementalExport": false,
+  "deleteOldExportedFiles": false,
   "addDarkModeToggle": true,
   "includeOutline": true,
   "includeGraphView": false,
@@ -27,5 +29,14 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "lastExportPath": "F:\\Working\\git\\hub\\kaiyuanlou\\index.html"
+  "exportPath": "F:\\Working\\git\\hub\\kaiyuanlou",
+  "filesToExport": [
+    [
+      "Kaiyuan Lou's HomePage.html"
+    ]
+  ],
+  "beautifyHTML": true,
+  "dataviewBlockWaitTime": 700,
+  "showWarningsInExportLog": true,
+  "lastExportPath": "F:\\Working\\git\\hub\\kaiyuanlou"
 }
