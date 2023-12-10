@@ -77,3 +77,4 @@ In case you don't know who I am.
 #### Improve NSGA algorithm
 The improved NSGA-II algorithm beats NSGA-III in finding better pareto front!
 ![[nsga.gif]]
+See detailed information here: https://kaiyuanlou.com/pubs/Optimizing%20Portfolios%20with%20Modified%20NSGA-II%20Solutions.html
