@@ -5,6 +5,7 @@ Welcome to Kaiyuan (Jeremy) Lou's homepage.
 
 - Duke University, 2020-2024, Data Science
 - Duke Kunshan University, 2020-2024, Data Science
+- Carnegie Mellon University, 2024-2026, Information Networking
 <br>
 ## Skills
 
