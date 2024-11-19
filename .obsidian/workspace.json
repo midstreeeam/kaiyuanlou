@@ -16,7 +16,9 @@
                 "file": "Kaiyuan Lou's HomePage.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kaiyuan Lou's HomePage"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
+                "file": "Kaiyuan Lou's HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kaiyuan Lou's HomePage"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
+                "file": "Kaiyuan Lou's HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kaiyuan Lou's HomePage"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md"
-              }
+                "file": "Kaiyuan Lou's HomePage.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kaiyuan Lou's HomePage"
             }
           }
         ]
@@ -152,40 +168,43 @@
     "type": "floating",
     "children": [
       {
-        "id": "442fb30871d4be6a",
+        "id": "0361f79f9b5dc5fc",
         "type": "window",
         "children": [
           {
-            "id": "f9c46af264c1b3cd",
+            "id": "d7566afeada392f8",
             "type": "tabs",
             "children": [
               {
-                "id": "3061855d9f34d2a6",
+                "id": "4f2f0bb7f10c60ba",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
+                    "file": "Kaiyuan Lou's HomePage.md",
                     "mode": "preview",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kaiyuan Lou's HomePage"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 270,
-        "y": 375,
-        "width": 800,
-        "height": 400,
+        "x": 692,
+        "y": 760,
+        "width": 802,
+        "height": 402,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3061855d9f34d2a6",
+  "active": "4f2f0bb7f10c60ba",
   "lastOpenFiles": [
+    "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
     "Kaiyuan Lou's HomePage.md",
     "img/nsga.gif",
     "img/propagation.png",
@@ -194,7 +213,6 @@
     "img/sso.gif",
     "img/oct.png",
     "img/hybrid.gif",
-    "Kaiyuan (Jeremy) Lou's Fake HomePage.md",
     "img",
     "Kaiyuan (Jeremy) Lou's Fake HomePage.html",
     "README.html",

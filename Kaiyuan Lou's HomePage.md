@@ -10,14 +10,14 @@ Welcome to Kaiyuan (Jeremy) Lou's homepage.
 ## Skills
 
 **Programming Language**
-- **Confident in:** Python, Rust (without macro), Markdown, LaTex
-- **Comfortable with:** C++, C#, JavaScript, HTML/CSS
-- **Have some experience with:** C, Java, Lua, Go, R, MatLab
+- **Confident in:** Python, Rust (without macro)
+- **Comfortable with:** C++/C, JavaScript, HTML/CSS, Java, Scala
+- **Have some experience with:** C#, Lua, Go, R, MatLab
 
-**Libraries/Frameworks/Engines**
-- **Confident in:** Numpy, Scikit-learn, PyTorch, [Rapier](https://rapier.rs/), [Bevy](https://bevyengine.org), Django
-- **Comfortable with:** [Rocket](https://rocket.rs/), Tensorflow, [OpenFrameworks](https://openframeworks.cc/), OpenCV
-- **Have some experience with:** React, Unity, D3.js
+**Libraries/Frameworks/Tools**
+- **Confident in:** PyTorch, Django, Spark, Kubernetes, OpenCV
+- **Comfortable with:** [Ntex](https://ntex.rs/), MySQL, Neo4j, Redis, [Bevy](https://bevyengine.org/)
+- **Have some experience with:** Unity, D3.js, Kafka, 
 <br>
 ## Interests
 
@@ -25,7 +25,7 @@ Welcome to Kaiyuan (Jeremy) Lou's homepage.
 - Similarity Search, Multi-object Optimization, Generative Machine Learing, Genetic Algorithm, Biomimetic Nueral Networks
 
 **Programming**
-- Software Engineering, Full-stack Development, Game Development, Novel structured Neural Networks, Programming Language
+- Cloud Computing, Software Engineering, Full-stack Development, Game Development, Novel structured Neural Networks, Programming Language
 
 **Others**
 - Oriental Literature, Fictions/Short Stories, Philosophy of Mind, Ontology, Astronomical Photography, Movie, Road Trip, Badminton
@@ -37,7 +37,7 @@ Welcome to Kaiyuan (Jeremy) Lou's homepage.
 - **[Peduncle](https://github.com/midstreeeam/peduncle)**: DOM based HTML content extraction tool
 #### Engineering Projects
 - **[EvoSim](https://evosim.kaiyuanlou.com/docs/index.html)**: An Evolution Simulator
-- **[SearchSo](https://doc.searchso.cn/)**: A search engine
+- **[SearchSo]([midstreeeam.github.io/sso-page/](https://midstreeeam.github.io/sso-page/ "https://midstreeeam.github.io/sso-page/"))**: A search engine
 #### Research Projects
 - **[Improved NSGA-II](https://github.com/midstreeeam/invest-opt)**: Using portfolio optimization task to test an improved NSGA-II approach
 - **[Enhancing DPR](https://github.com/loeeeee/DensePassageRetrieval)**: Enhancing Dense Retrieval Efficiency with Hierarchical Clustering
@@ -65,7 +65,7 @@ Detailed information here: https://evosim.kaiyuanlou.com/docs/OctopusNet.html
 #### Search Engine
 A gif demo for Search-So search engine. 
 ![[sso.gif]]
-visiting https://doc.searchso.cn/ for more information!
+visiting [midstreeeam.github.io/sso-page/](https://midstreeeam.github.io/sso-page/ "https://midstreeeam.github.io/sso-page/") for more information!
 <br>
 #### I changed Python's grammar!
 Thanks, Python!
